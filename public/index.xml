@@ -5,6 +5,16 @@
     <link>http://example.org/</link>
     <description>Recent content on The Tikerly Story</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2023 20:15:49 +0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investing Made Easier</title>
+      <link>http://example.org/posts/why-tikerly/</link>
+      <pubDate>Mon, 08 May 2023 20:15:49 +0400</pubDate>
+      
+      <guid>http://example.org/posts/why-tikerly/</guid>
+      <description>Gain Financial Freedom Do you want to take care of your own money? Do you have a small amount of money but don’t know where to start investing? Do you want to know WHAT and WHEN to BUY? Do you want to know WHAT and WHEN to SELL?˚ Are you overwhelmed with the number of investment options - instruments such as Shares, Mutual Funds, Commodities, Bonds, Currency and many more? Are you looking for opportunities to enter the stock market but don’t know how to begin?</description>
+    </item>
+    
   </channel>
 </rss>

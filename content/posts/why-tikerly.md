@@ -1,7 +1,7 @@
 ---
 title: "Investing Made Easier"
 date: 2023-05-08T20:15:49+04:00
-draft: true
+draft: false
 ---
 ## Gain Financial Freedom
 - Do you want to take care of your own money?
